@@ -11,5 +11,5 @@ Bachelors of Arts in information science and economics degree and PL-300 Cert
   Any data analyst project 
   
 ## 📫 How to reach me: ...
--linkedin link in my bio
--->
+<-- linkedin link in my bio
+-
